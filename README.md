@@ -6,4 +6,4 @@ Keep track of your inventory through this app. I learned how to not only use rou
 
 ## Walkthrough
 
-[![Watch the video](./videos/walkthrough_ecommerce.webm)]
+[![Watch the video](./videos/ecommerce_walkthrough.webm)]
